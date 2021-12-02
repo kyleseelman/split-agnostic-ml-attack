@@ -1,6 +1,6 @@
 # Split-Agnostic Meta-learning Evasion (SAME) Attack
 
-Code to reproduce our paper "Full and Partial Split Agnositc Meta-Learning Evasion Attacks" will post link once by conference. 
+Code to reproduce our paper "Full and Partial Split Agnositc Meta-Learning Evasion Attacks" will post link after conference decision. 
 
 ## Setup
 ### Requirements
